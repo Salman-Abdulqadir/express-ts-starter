@@ -6,7 +6,7 @@
   "author": "Salman Abdulqadir",
   "license": "MIT",
   "scripts": {
-    "start": "ts-node-dev index.ts"
+    "start": "ts-node-dev src/index.ts"
   },
   "dependencies": {
     "@types/express": "^4.17.17",
